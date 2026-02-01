@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:203a43,100:2c5364&section=header&text=Elissa%20Abou%20Hassan&fontSize=38&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Frontend%20Focused&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:232526,100:414345&section=header&text=Elissa%20Abou%20Hassan&fontSize=36&fontAlignY=40&desc=>%20Full%20Stack%20Developer%20_%20Frontend%20Focused&descAlignY=65" />
 </p>
+
 
 
 # Hi, I'm Elissa 👋
