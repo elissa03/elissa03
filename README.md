@@ -17,28 +17,47 @@ I enjoy turning complex ideas into clean, intuitive interfaces — and I’m esp
 - 🤖 Experienced with AI-assisted development & prompt engineering
 - 🌱 Always learning, always improving
 
----
-
 ## 🛠 Tech Stack
 
-**Frontend**
-- React.js, Redux, Storybook
-- HTML, CSS, SCSS
-- Responsive & accessible UI design
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
 
-**Backend**
-- Node.js, NestJS
-- REST APIs, Socket.io
-- MongoDB, MySQL
+---
 
-**Languages**
-- JavaScript, TypeScript
-- Python, Java, C++
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
+![Storybook](https://img.shields.io/badge/Storybook-000?style=for-the-badge&logo=storybook)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![SCSS](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=sass)
 
-**Tools & Platforms**
-- Git & GitHub
-- Firebase, JWT
-- AI-assisted development tools (Cursor)
+---
+
+### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
+![Socket.io](https://img.shields.io/badge/Socket.io-000?style=for-the-badge&logo=socket.io)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-000?style=for-the-badge)
+
+---
+
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+
+---
+
+### ☁️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
+![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge)
+![AI Tools](https://img.shields.io/badge/AI--Assisted%20Development-000?style=for-the-badge)
 
 ---
 
