@@ -1,18 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &size=28
-    &pause=1000
-    &color=38B2AC
-    &center=true
-    &vCenter=true
-    &width=900
-    &height=120
-    &lines=Hi%2C+I%27m+Elissa+Abou+Hassan;
-    Full+Stack+Developer;
-    Frontend-Focused+Engineer;
-    Building+Clean+%26+Scalable+UIs;
-    Exploring+AI-Assisted+Development" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=800&color=61DAFB&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Elissa+Abou+Hassan;Full+Stack+Developer;Frontend-Focused+Engineer;Building+Clean+%26+Scalable+UIs;Exploring+AI-Assisted+Development"
+    alt="Typing banner"
+  />
 </p>
 
 # Hi, I'm Elissa 👋
