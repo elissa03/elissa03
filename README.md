@@ -1,8 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:232526,100:414345&section=header&text=Elissa%20Abou%20Hassan&fontSize=36&fontAlignY=40&desc=>%20Full%20Stack%20Developer%20_%20Frontend%20Focused&descAlignY=65" />
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code
+    &size=28
+    &pause=1000
+    &color=38B2AC
+    &center=true
+    &vCenter=true
+    &width=900
+    &height=120
+    &lines=Hi%2C+I%27m+Elissa+Abou+Hassan;
+    Full+Stack+Developer;
+    Frontend-Focused+Engineer;
+    Building+Clean+%26+Scalable+UIs;
+    Exploring+AI-Assisted+Development" />
 </p>
-
-
 
 # Hi, I'm Elissa 👋
 
