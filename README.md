@@ -1,19 +1,26 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Elissa%20Abou%20Hassan&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Frontend%20Focused&descAlignY=55" />
+</p>
+
 # Hi, I'm Elissa 👋
 
-I'm a **Full Stack Developer** with a strong focus on **frontend engineering**, building scalable, user-focused web applications using modern JavaScript frameworks.
+Full Stack Developer with a strong focus on **frontend engineering**, building scalable, high-performance web applications with modern JavaScript technologies.
 
-I enjoy turning complex ideas into clean, intuitive interfaces — and I’m especially interested in **design systems, real-time applications, and AI-assisted development**.
+I enjoy turning complex ideas into clean, intuitive user experiences and working on real-time systems, design systems, and AI-assisted development.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-- 🎓 B.S. in Computer Science (Dean’s Honor List ×4)
 - 💼 Frontend Engineer at **AEMS.ai**
+- 🎓 B.S. in Computer Science (Dean’s Honor List ×4)
 - 🌍 Worked with teams across the UK, UAE, and Lebanon
-- 🧠 Passionate about UI architecture, performance, and developer experience
 - 🤖 Experienced with AI-assisted development & prompt engineering
-- 🌱 Always learning, always improving
+- ⚡ Interested in real-time applications, performance optimization, and scalable architectures
 
 ---
 
@@ -59,19 +66,21 @@ I enjoy turning complex ideas into clean, intuitive interfaces — and I’m esp
 ![JWT](https://img.shields.io/badge/JWT-000000)
 ![AI Tools](https://img.shields.io/badge/AI--Assisted_Development-5C6BC0)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" />
+</p>
+
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30" />
 
 ### 🔹 [HireHive](https://github.com/elissa03/hirehive)
 An AI-powered recruitment platform that streamlines CV creation, job matching, and interview preparation.
 
-**Highlights**
 - Dynamic CV tailoring based on job descriptions  
 - NLP-powered CV–job matching  
 - AI-generated personalized interview questions  
 
-**Tech Stack**
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -84,11 +93,9 @@ An AI-powered recruitment platform that streamlines CV creation, job matching, a
 ### 🔹 [Break The Bricks](https://github.com/elissa03/break-the-bricks)
 A classic arcade-style browser game built using the HTML5 Canvas API.
 
-**Features**
-- Ball-and-paddle physics
-- Power-ups with probability-based spawning
+- Ball-and-paddle physics  
+- Probability-based power-ups  
 
-**Tech Stack**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?logo=html5&logoColor=white)
 
@@ -106,9 +113,6 @@ A classic arcade-style browser game built using the HTML5 Canvas API.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elissa%20Abou%20Hassan-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elissa-abou-hassan/)
 [![Email](https://img.shields.io/badge/Email-elissaahassan%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:elissaahassan@gmail.com)
 
-
 ---
 
-⭐️ Thanks for stopping by — feel free to check out my work or get in touch.
-
-
+Thanks for stopping by.
