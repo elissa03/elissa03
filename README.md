@@ -17,47 +17,49 @@ I enjoy turning complex ideas into clean, intuitive interfaces — and I’m esp
 - 🤖 Experienced with AI-assisted development & prompt engineering
 - 🌱 Always learning, always improving
 
+---
+
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
 ---
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
-![Storybook](https://img.shields.io/badge/Storybook-000?style=for-the-badge&logo=storybook)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![SCSS](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=sass)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
 
 ---
 
 ### 🧠 Backend
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
-![Socket.io](https://img.shields.io/badge/Socket.io-000?style=for-the-badge&logo=socket.io)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-000?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B)
 
 ---
 
 ### 🗄 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ---
 
 ### ☁️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
-![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge)
-![AI Tools](https://img.shields.io/badge/AI--Assisted%20Development-000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000)
+![AI Tools](https://img.shields.io/badge/AI--Assisted_Development-5C6BC0)
 
 ---
 
