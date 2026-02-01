@@ -1,6 +1,21 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=800&color=61DAFB&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Elissa+Abou+Hassan;Full+Stack+Developer;Frontend-Focused+Engineer;Building+Clean+%26+Scalable+UIs;Exploring+AI-Assisted+Development"
+    src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code
+    &size=32
+    &duration=1800
+    &pause=500
+    &color=61DAFB
+    &center=true
+    &vCenter=true
+    &multiline=true
+    &width=900
+    &height=140
+    &lines=Elissa+Abou+Hassan;
+    Full+Stack+Developer;
+    Frontend-Focused+Engineer;
+    Building+Clean+%26+Scalable+UIs;
+    Exploring+AI-Assisted+Development"
     alt="Typing banner"
   />
 </p>
