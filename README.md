@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=700&color=00FFAA&center=true&vCenter=true&multiline=true&width=900&height=140&lines=>+whoami;Elissa+Abou+Hassan;>+role;Full+Stack+Developer;>+focus;Frontend+Engineering"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=700&color=00FFAA&center=true&vCenter=true&multiline=true&width=900&height=150&lines=>+whoami;Elissa+Abou+Hassan;>+role;Full+Stack+Developer;>+focus;Frontend+Engineering"
   />
 </p>
 
@@ -11,7 +11,7 @@ Full Stack Developer with a strong focus on **frontend engineering**, building s
 I enjoy turning complex ideas into clean, intuitive user experiences and working on real-time systems, design systems, and AI-assisted development.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" />
 </p>
 
 ---
@@ -20,7 +20,7 @@ I enjoy turning complex ideas into clean, intuitive user experiences and working
 
 - 💼 Frontend Engineer at **AEMS.ai**
 - 🎓 B.S. in Computer Science (Dean’s Honor List ×4)
-- 🌍 Worked with teams across the UK, UAE, and Lebanon
+- 🌍 Worked with teams across the UK, Brazil, UAE, and Lebanon
 - 🤖 Experienced with AI-assisted development & prompt engineering
 - ⚡ Interested in real-time applications, performance optimization, and scalable architectures
 
@@ -68,13 +68,9 @@ I enjoy turning complex ideas into clean, intuitive user experiences and working
 ![JWT](https://img.shields.io/badge/JWT-000000)
 ![AI Tools](https://img.shields.io/badge/AI--Assisted_Development-5C6BC0)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" />
-</p>
-
 ---
 
-## 🚀 Projects <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30" />
+## 🚀 Projects
 
 ### 🔹 [HireHive](https://github.com/elissa03/hirehive)
 An AI-powered recruitment platform that streamlines CV creation, job matching, and interview preparation.
