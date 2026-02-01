@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=700&color=00FFAA&center=true&vCenter=true&multiline=true&width=900&height=150&lines=>+whoami;Elissa+Abou+Hassan;>+role;Full+Stack+Developer;>+focus;Frontend+Engineering"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&&duration=1400&pause=400&color=00FFAA&center=true&vCenter=true&multiline=true&width=900&height=150&lines=>+whoami;Elissa+Abou+Hassan;>+role;Full+Stack+Developer;>+focus;Frontend+Engineering"
   />
 </p>
 
